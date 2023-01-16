@@ -1,5 +1,5 @@
 numpy
 scipy
-matplotlib.pyplot
+matplotlib
 math
 random
